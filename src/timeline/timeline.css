@@ -1,0 +1,11 @@
+.short-night .sn-event_body {
+    background-color: #000066;
+    color: #ffffff;
+    border: 1px solid orange;
+    border-radius: 20px;
+}
+
+.short-night .sn-axis_milestone {
+    background-color: #884400;
+    color: #afafaf;
+}
